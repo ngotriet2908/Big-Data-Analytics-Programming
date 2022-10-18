@@ -1,0 +1,7 @@
+*.gz
+.*
+!.gitignore
+
+build
+build/*
+!build/build.xml
